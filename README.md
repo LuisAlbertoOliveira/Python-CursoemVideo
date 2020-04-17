@@ -1,2 +1,2 @@
 # Python-CursoemVideo
- Arquivos de exercicios ddo curso em Video de Python
+ Arquivos de exercicios do curso em Video de Python
